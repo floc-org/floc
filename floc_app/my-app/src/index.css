@@ -24,3 +24,18 @@
     width: 15vw;
     height: 15vw;
 }
+
+.signin-btn{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.signout-btn{
+  position:absolute; 
+  top:1vw; 
+  right:2vw;
+}
